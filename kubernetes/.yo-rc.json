@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "adminPassword": "admin",
+    "appsFolders": ["gateway", "invoice", "review"],
+    "dbRandomPassword": "2681615dfd0654de517c8853aed1e449e0b4fc5040bc25ed498a7780e390",
+    "deploymentApplicationType": "microservice",
+    "directoryPath": "../",
+    "dockerPushCommand": "docker push",
+    "dockerRepositoryName": "lukethep",
+    "ingressDomain": null,
+    "ingressType": null,
+    "istio": false,
+    "jhipsterVersion": "8.7.1",
+    "jwtSecretKey": "ZmVkY2I1Y2E5M2I2NzEzNmMyNTQyMWRmZjZkM2Q4MzU1OWJjODExNDBkYTgzZWIyODRhYzdhNzdmZWFhY2M3NjE4YjkxODZlNjM3NmVhZjQ4NjliYmRlYjg3MTYyMDAzNDk5Yg==",
+    "kubernetesNamespace": "jhipster",
+    "kubernetesServiceType": "LoadBalancer",
+    "kubernetesStorageClassName": null,
+    "kubernetesUseDynamicStorage": false,
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
